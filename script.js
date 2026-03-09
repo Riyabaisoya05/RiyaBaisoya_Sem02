@@ -115,3 +115,30 @@
 // }
 
 
+// loops
+
+// for(let i=0;i<5;i++){
+//     console.log("for loop iteration:"+i);
+// }
+
+
+// let count=0;
+// while(count<3){
+//     console.log("while loop count:"+count);
+//     count++;
+// }
+
+
+// let i=0;
+// do{
+//     console.log("do-while loop i:"+i);
+//     i++;
+// }while(i<2);
+
+
+let i=3;
+do{
+    console.log("do-while loop i:"+i);
+    i++;
+
+}while(i<2);
