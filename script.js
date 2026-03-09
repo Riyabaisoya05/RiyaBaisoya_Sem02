@@ -136,9 +136,17 @@
 // }while(i<2);
 
 
-let i=3;
-do{
-    console.log("do-while loop i:"+i);
-    i++;
+// let i=3;
+// do{
+//     console.log("do-while loop i:"+i);
+//     i++;
 
-}while(i<2);
+// }while(i<2);
+
+
+// array
+
+let day = ["monday","tuesday","wednesday"];
+// console.log(day);
+day.push("apple");
+console.log(day.length);
